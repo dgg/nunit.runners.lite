@@ -1,0 +1,4 @@
+*.dll filter=lfs diff=lfs merge=lfs -crlf
+*.exe filter=lfs diff=lfs merge=lfs -crlf
+*.ico filter=lfs diff=lfs merge=lfs -crlf
+*.png filter=lfs diff=lfs merge=lfs -crlf
