@@ -1,0 +1,1 @@
+& .\tools\Nuget\Nuget.exe pack NUnit.Runners.lite.nuspec
